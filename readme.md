@@ -16,7 +16,7 @@
 python main.py
 ```
 
-![실행 화면 이미지 삽입](경로를_입력해주세요/execution_screen.png)
+![실행 화면 이미지 삽입](main.png)
 
 
 ---
